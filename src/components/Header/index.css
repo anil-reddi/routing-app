@@ -1,0 +1,41 @@
+.nav-bar {
+  width: 100%;
+  height: 70px;
+}
+.nav-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-left: 14px;
+  margin-right: 14px;
+}
+.logo-container {
+  display: flex;
+  align-items: center;
+}
+.wave-image {
+  width: 44px;
+  margin-right: 14px;
+}
+.wave-heading {
+  color: #6d396b;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 26px;
+}
+.nav-menu {
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+}
+.nav-options {
+  color: #551e53;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 18px;
+  margin-right: 22px;
+}
+.nav-link {
+  text-decoration: none;
+  color: #551e53;
+}
